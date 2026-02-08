@@ -13,8 +13,7 @@
 			``nvm install --lts``
 			`nvm use --lts` 
 - Foundry nodejs
-	-![[Pasted image 20260207224041.png]]
-
+  
 Instalação: 
 1. Extraia o arquivo para seu diretório de escolha, lembre-se dele
 
@@ -52,7 +51,7 @@ Instalação:
 	2. Coloque uma cópia do arquivo .bat (criado no passo 1) dentro dessa pasta que abriu.
 	3. O servidor Node.js iniciará automaticamente em segundo plano sempre que você fizer login no Windows.
 
-**Para acessar o servidor como host o padrão é https://localhost:30000 se vc tá no oracle eu não sei o padrão, te vira, mas deve funcionar para VPNs tipo zero tier ou radmin
+**Para acessar o servidor como host o padrão é https://localhost:30000 se vc tá no oracle eu não sei o padrão, te vira, mas deve funcionar para VPNs tipo zero tier ou radmin**
 
 ### Para o linux:
 1. Criando um Script Executável (.sh): Esta é a forma mais simples. Você cria um arquivo que funciona como um "lançador".
@@ -93,4 +92,4 @@ Instalação:
 	`sudo systemctl start foundry`
 	3. Pronto, agora vai rodar sempre que você ligar o pc
 
-**Para acessar o servidor como host o padrão é https://localhost:30000 se vc tá no oracle eu não sei o padrão, te vira, mas deve funcionar para VPNs tipo zero tier ou radmin
+**Para acessar o servidor como host o padrão é https://localhost:30000 se vc tá no oracle eu não sei o padrão, te vira, mas deve funcionar para VPNs tipo zero tier ou radmin**
